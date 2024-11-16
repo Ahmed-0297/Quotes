@@ -1,0 +1,16 @@
+.fs-80{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fs-35{
+    font-size: 35px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.b-w250{
+    width: 250px;
+    height: 80px;
+}
+.quote{
+    font-size: 35px; 
+    margin-top: 10px;
+}
